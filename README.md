@@ -2,5 +2,5 @@ Merhaba ![](https://user-images.githubusercontent.com/18350557/176309783-0785949
 =======================
 💫 About Me:
 =======================
+
 Ben Furkan Oğuzgöksu. Konya Teknik Üniversitesi Bilgisayar Mühendisi öğrencisiyim.
-----------------------------
