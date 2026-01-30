@@ -1,10 +1,6 @@
-<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" />
-
----
-
 ## 💫 About Me
 
-Merhaba! 👋  
+Merhaba! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" />
 Ben **Furkan Oğuzgöksu**, **Konya Teknik Üniversitesi Bilgisayar Mühendisliği** öğrencisiyim.
 
 **Mobil uygulama geliştirme**, **backend sistemleri** ve **veritabanı odaklı yazılım geliştirme** alanlarıyla ilgileniyorum.  
