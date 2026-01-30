@@ -36,11 +36,11 @@ Akademik projelerde edindiğim teorik bilgileri, gerçek hayata yakın senaryola
 ## 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=FurkanOguzgoksu&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=FurkanOguzgoksu&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FurkanOguzgoksu&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FurkanOguzgoksu&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
