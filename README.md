@@ -1,16 +1,16 @@
 ---
 
-## 💫 About Me
+## Merhaba!👋 Ben **Furkan Oğuzgöksu**, 
 
-Merhaba!👋 Ben **Furkan Oğuzgöksu**, **Konya Teknik Üniversitesi Bilgisayar Mühendisliği** öğrencisiyim.
+**Konya Teknik Üniversitesi Bilgisayar Mühendisliği** öğrencisiyim.
 
-**Mobil uygulama geliştirme**, **backend sistemleri** ve **veritabanı odaklı yazılım geliştirme** alanlarıyla ilgileniyorum.  
-Özellikle **Flutter** ile mobil uygulamalar, **Python & Flask** ile backend servisleri ve **MySQL** ile veritabanı tasarımı ve yönetimi üzerine çalışıyorum.
+**Mobil uygulama geliştirme, backend sistemleri, veritabanı, ROS 2, gömülü sistemler, görüntü işleme ve derin öğrenme** alanlarıyla ilgileniyorum.
 
-Akademik projelerde edindiğim teorik bilgileri, gerçek hayata yakın senaryolar üzerinden uygulamayı;  
-**uçtan uca (mobil → backend → veri)** çalışan sistemler geliştirmeyi hedefliyorum.
+Projelerimde ağırlıklı olarak **Flutter, Python ve C/C++** kullanıyorum. Bunun yanında **robotik, otonom sistemler ve yapay zekâ destekli uygulamalar** üzerine kendimi geliştirmeye devam ediyorum.
 
- Sürekli öğrenmeye açık, analitik düşünen ve üretmeyi amaçlayan bir yazılım geliştirici adayıyım.🚀
+Akademik bilgilerimi gerçek hayata yakın projelerle destekleyerek, **yazılım ve donanım bileşenlerini bir araya getiren uçtan uca sistemler** geliştirmeyi hedefliyorum.
+
+Sürekli öğrenmeye, yeni teknolojiler denemeye ve projeler üretmeye odaklanıyorum.
 
 ---
 
