@@ -32,15 +32,18 @@ Akademik bilgilerimi uygulamalı projelerle destekleyerek, **yazılım ve donan�
 
 ## 📊 GitHub İstatistiklerim
 
-![](https://github-readme-stats.vercel.app/api?username=FurkanOguzgoksu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&locale=tr)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=FurkanOguzgoksu&theme=dark&hide_border=false&locale=tr)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=FurkanOguzgoksu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&locale=tr)
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=FurkanOguzgoksu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&locale=tr" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=FurkanOguzgoksu&theme=dark&hide_border=false&locale=tr" />
+    </td>
+  </tr>
+</table>
 
 ---
-
-[![](https://visitcount.itsvg.in/api?id=FurkanOguzgoksu&icon=6&color=3)](https://visitcount.itsvg.in)
 
 ## 🎯 İlgi ve Çalışma Alanlarım
 
@@ -51,5 +54,3 @@ Akademik bilgilerimi uygulamalı projelerle destekleyerek, **yazılım ve donan�
 - 👁️ **Görüntü İşleme ve Yapay Zekâ:** OpenCV, YOLO, Derin Öğrenme
 - 🔌 **Gömülü Sistemler:** Arduino, C/C++
 - 🧠 **Problem Çözme ve Algoritmalar**
-
----
